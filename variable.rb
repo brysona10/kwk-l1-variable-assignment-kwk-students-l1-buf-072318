@@ -1,4 +1,6 @@
-gets
+name = gets
+
+puts name
 
 # name="Arella" # Define a local variable called 'greeting',
 # puts Hello #(name)!

@@ -1,6 +1,6 @@
 # Take in the user's name as input and output a personalized name
 puts "what is your name?"
-name=gets
+name=gets.chomp
 
 puts 
 "Hello #(name)"
